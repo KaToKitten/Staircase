@@ -1,0 +1,5 @@
+C:\Users\Mary Kimberly\Desktop\My Things\WORK\3 - Staircase\3 - Staircase\bin\Debug\3 - Staircase.exe.config
+C:\Users\Mary Kimberly\Desktop\My Things\WORK\3 - Staircase\3 - Staircase\bin\Debug\3 - Staircase.exe
+C:\Users\Mary Kimberly\Desktop\My Things\WORK\3 - Staircase\3 - Staircase\bin\Debug\3 - Staircase.pdb
+C:\Users\Mary Kimberly\Desktop\My Things\WORK\3 - Staircase\3 - Staircase\obj\Debug\3 - Staircase.exe
+C:\Users\Mary Kimberly\Desktop\My Things\WORK\3 - Staircase\3 - Staircase\obj\Debug\3 - Staircase.pdb
